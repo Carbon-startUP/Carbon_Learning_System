@@ -7,3 +7,6 @@
 [submodule "Carbon_Learning_System_Front_End"]
 	path = Carbon_Learning_System_Front_End
 	url = https://github.com/Carbon-startUP/Carbon_Learning_System_Front_End.git
+[submodule "Carbon_Learning_System_Learning_assistant_ChatBot_With_RAG"]
+	path = Carbon_Learning_System_Learning_assistant_ChatBot_With_RAG
+	url = https://github.com/Carbon-startUP/Carbon_Learning_System_Learning_assistant_ChatBot_With_RAG.git
