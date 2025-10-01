@@ -1,0 +1,9 @@
+[submodule "Carbon_Learning_System_Flutter"]
+	path = Carbon_Learning_System_Flutter
+	url = https://github.com/Carbon-startUP/Carbon_Learning_System_Flutter.git
+[submodule "Carbon_Learning_System_BackEnd"]
+	path = Carbon_Learning_System_BackEnd
+	url = https://github.com/Carbon-startUP/Carbon_Learning_System_BackEnd.git
+[submodule "Carbon_Learning_System_Front_End"]
+	path = Carbon_Learning_System_Front_End
+	url = https://github.com/Carbon-startUP/Carbon_Learning_System_Front_End.git
